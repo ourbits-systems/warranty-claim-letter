@@ -1,0 +1,915 @@
+######## de/first/no-reply
+Erika Mustermann
+2. Oktober 2026
+
+An: Acme GmbH
+Betreff: Mängelanzeige: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+am 1. März 2026 habe ich von Ihnen folgendes Produkt erhalten: Pixel 9 Pro (Google, Modell GA05, Bestellnummer A-1042). Am 1. Oktober 2026 habe ich folgenden Mangel festgestellt: Das Display flackert.
+
+Bisherige Lösungsversuche: Werksreset
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Da Sie das Produkt nicht innerhalb einer angemessenen Frist repariert oder ersetzt haben, möchte ich vom Vertrag zurücktreten und bitte um Erstattung des vollen Kaufpreises in Höhe von 899 €. Ich sende Ihnen das Produkt zurück, sobald Sie mir mitteilen, wie die Rücksendung erfolgen soll.
+
+Bitte teilen Sie mir bis zum 16. Oktober 2026 schriftlich mit, wie Sie den Mangel beheben werden. Sollte ich bis dahin nichts von Ihnen hören, werde ich weitere Schritte einleiten und mich unter anderem an die Verbraucherzentrale wenden.
+
+Anlagen:
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/first/refused
+Erika Mustermann
+2. Oktober 2026
+
+An: Acme GmbH
+Betreff: Mängelanzeige: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+am 1. März 2026 habe ich von Ihnen folgendes Produkt erhalten: Pixel 9 Pro (Google, Modell GA05, Bestellnummer A-1042). Am 1. Oktober 2026 habe ich folgenden Mangel festgestellt: Das Display flackert.
+
+Bisherige Lösungsversuche: Werksreset
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Da Sie es abgelehnt haben, einen vertragsgemäßen Zustand herzustellen, möchte ich vom Vertrag zurücktreten und bitte um Erstattung des vollen Kaufpreises in Höhe von 899 €. Ich sende Ihnen das Produkt zurück, sobald Sie mir mitteilen, wie die Rücksendung erfolgen soll.
+
+Bitte teilen Sie mir bis zum 16. Oktober 2026 schriftlich mit, wie Sie den Mangel beheben werden. Sollte ich bis dahin nichts von Ihnen hören, werde ich weitere Schritte einleiten und mich unter anderem an die Verbraucherzentrale wenden.
+
+Anlagen:
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/followup/no-reply
+Erika Mustermann
+12. Oktober 2026
+
+An: Acme GmbH
+Betreff: Letzte Aufforderung zur Mängelbeseitigung: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+mit Schreiben vom 2. Oktober 2026 habe ich Ihnen einen Mangel an folgendem Produkt angezeigt: Pixel 9 Pro, geliefert am 1. März 2026. Seitdem habe ich keine Antwort von Ihnen erhalten.
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Da Sie das Produkt nicht innerhalb einer angemessenen Frist repariert oder ersetzt haben, möchte ich vom Vertrag zurücktreten und bitte um Erstattung des vollen Kaufpreises in Höhe von 899 €. Ich sende Ihnen das Produkt zurück, sobald Sie mir mitteilen, wie die Rücksendung erfolgen soll.
+
+Dies ist meine letzte Aufforderung. Sollte die Angelegenheit bis zum 19. Oktober 2026 nicht geklärt sein, werde ich mich an die Verbraucherzentrale wenden und gerichtliche Schritte prüfen.
+
+Anlagen:
+- Kopie meines Schreibens vom 2. Oktober 2026
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/followup/refused
+Erika Mustermann
+12. Oktober 2026
+
+An: Acme GmbH
+Betreff: Letzte Aufforderung zur Mängelbeseitigung: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+mit Schreiben vom 2. Oktober 2026 habe ich Ihnen einen Mangel an folgendem Produkt angezeigt: Pixel 9 Pro, geliefert am 1. März 2026. Sie haben es seitdem abgelehnt, das Problem zu beheben.
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Da Sie es abgelehnt haben, einen vertragsgemäßen Zustand herzustellen, möchte ich vom Vertrag zurücktreten und bitte um Erstattung des vollen Kaufpreises in Höhe von 899 €. Ich sende Ihnen das Produkt zurück, sobald Sie mir mitteilen, wie die Rücksendung erfolgen soll.
+
+Dies ist meine letzte Aufforderung. Sollte die Angelegenheit bis zum 19. Oktober 2026 nicht geklärt sein, werde ich mich an die Verbraucherzentrale wenden und gerichtliche Schritte prüfen.
+
+Anlagen:
+- Kopie meines Schreibens vom 2. Oktober 2026
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/rejection/no-reply
+Erika Mustermann
+26. Oktober 2026
+
+An: Acme GmbH
+Betreff: Ihre Ablehnung meiner Reklamation: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+mit Schreiben vom 2. Oktober 2026 habe ich Sie gebeten, einen Mangel an folgendem Produkt zu beheben: Pixel 9 Pro (Google, Modell GA05), geliefert am 1. März 2026. Am 10. Oktober 2026 haben Sie meine Reklamation abgelehnt und dies wie folgt begründet: „Kein Mangel“.
+
+Mit dieser Entscheidung bin ich nicht einverstanden. Der Mangel besteht in Folgendem: Das Display flackert.
+
+Bisherige Lösungsversuche: Werksreset
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Da Sie es abgelehnt haben, einen vertragsgemäßen Zustand herzustellen, möchte ich vom Vertrag zurücktreten und bitte um Erstattung des vollen Kaufpreises in Höhe von 899 €. Ich sende Ihnen das Produkt zurück, sobald Sie mir mitteilen, wie die Rücksendung erfolgen soll.
+
+Bitte überprüfen Sie Ihre Entscheidung und teilen Sie mir bis zum 9. November 2026 schriftlich mit, wie Sie den Mangel beheben werden. Sollten Sie an Ihrer Ablehnung festhalten, werde ich weitere Schritte einleiten und mich unter anderem an die Verbraucherzentrale wenden.
+
+Anlagen:
+- Kopie Ihrer Ablehnung
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/rejection/refused
+Erika Mustermann
+26. Oktober 2026
+
+An: Acme GmbH
+Betreff: Ihre Ablehnung meiner Reklamation: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+mit Schreiben vom 2. Oktober 2026 habe ich Sie gebeten, einen Mangel an folgendem Produkt zu beheben: Pixel 9 Pro (Google, Modell GA05), geliefert am 1. März 2026. Am 10. Oktober 2026 haben Sie meine Reklamation abgelehnt und dies wie folgt begründet: „Kein Mangel“.
+
+Mit dieser Entscheidung bin ich nicht einverstanden. Der Mangel besteht in Folgendem: Das Display flackert.
+
+Bisherige Lösungsversuche: Werksreset
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Da Sie es abgelehnt haben, einen vertragsgemäßen Zustand herzustellen, möchte ich vom Vertrag zurücktreten und bitte um Erstattung des vollen Kaufpreises in Höhe von 899 €. Ich sende Ihnen das Produkt zurück, sobald Sie mir mitteilen, wie die Rücksendung erfolgen soll.
+
+Bitte überprüfen Sie Ihre Entscheidung und teilen Sie mir bis zum 9. November 2026 schriftlich mit, wie Sie den Mangel beheben werden. Sollten Sie an Ihrer Ablehnung festhalten, werde ich weitere Schritte einleiten und mich unter anderem an die Verbraucherzentrale wenden.
+
+Anlagen:
+- Kopie Ihrer Ablehnung
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/complaint/no-reply
+Erika Mustermann
+26. Oktober 2026
+
+An: Verbraucherzentrale
+Betreff: Beschwerde über Acme GmbH: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+hiermit reiche ich eine Beschwerde gegen Acme GmbH ein. Am 1. März 2026 habe ich von diesem Unternehmen folgendes Produkt erhalten: Pixel 9 Pro (Google, Modell GA05, Bestellnummer A-1042). Am 1. Oktober 2026 habe ich folgenden Mangel festgestellt: Das Display flackert.
+
+Bisherige Lösungsversuche: Werksreset
+
+Am 2. Oktober 2026 habe ich den Verkäufer schriftlich aufgefordert, das Problem zu beheben. Ich habe keine Antwort erhalten. Am 12. Oktober 2026 habe ich eine letzte Frist gesetzt, ohne dass die Angelegenheit geklärt wurde.
+
+Nach meiner Auffassung ist der Verkäufer für diesen Mangel verantwortlich, da Verkäufer nach dem Verbraucherrecht für die Vertragsmäßigkeit der Ware einstehen müssen.
+
+Ich strebe die Erstattung des vollen Kaufpreises an. Bitte prüfen Sie meine Beschwerde und teilen Sie mir mit, wie Sie mich unterstützen können und welche weiteren Schritte mir offenstehen.
+
+Anlagen:
+- Kaufbeleg (Kassenbon oder Rechnung)
+- Kopien meines Schriftverkehrs mit dem Verkäufer
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/complaint/refused
+Erika Mustermann
+26. Oktober 2026
+
+An: Verbraucherzentrale
+Betreff: Beschwerde über Acme GmbH: Pixel 9 Pro (Bestellnummer A-1042)
+
+Sehr geehrte Damen und Herren,
+
+hiermit reiche ich eine Beschwerde gegen Acme GmbH ein. Am 1. März 2026 habe ich von diesem Unternehmen folgendes Produkt erhalten: Pixel 9 Pro (Google, Modell GA05, Bestellnummer A-1042). Am 1. Oktober 2026 habe ich folgenden Mangel festgestellt: Das Display flackert.
+
+Bisherige Lösungsversuche: Werksreset
+
+Am 2. Oktober 2026 habe ich den Verkäufer schriftlich aufgefordert, das Problem zu beheben. Der Verkäufer hat dies abgelehnt und wie folgt begründet: „Kein Mangel“. Am 12. Oktober 2026 habe ich eine letzte Frist gesetzt, ohne dass die Angelegenheit geklärt wurde.
+
+Nach meiner Auffassung ist der Verkäufer für diesen Mangel verantwortlich, da Verkäufer nach dem Verbraucherrecht für die Vertragsmäßigkeit der Ware einstehen müssen.
+
+Ich strebe die Erstattung des vollen Kaufpreises an. Bitte prüfen Sie meine Beschwerde und teilen Sie mir mit, wie Sie mich unterstützen können und welche weiteren Schritte mir offenstehen.
+
+Anlagen:
+- Kaufbeleg (Kassenbon oder Rechnung)
+- Kopien meines Schriftverkehrs mit dem Verkäufer
+
+Mit freundlichen Grüßen
+Erika Mustermann
+
+######## de/first/empty
+[Ihr Name]
+26. Oktober 2026
+
+An: [Name des Verkäufers]
+Betreff: Mängelanzeige: Smartphone
+
+Sehr geehrte Damen und Herren,
+
+am [Lieferdatum] habe ich von Ihnen folgendes Produkt erhalten: Smartphone. Das Produkt weist folgenden Mangel auf: [Mangel beschreiben]
+
+Als Verkäufer sind Sie nach dem Verbraucherrecht dafür verantwortlich, dass die Ware dem Vertrag entspricht. Nach meiner Auffassung fällt dieser Mangel unter diese Verantwortung.
+
+Ich bitte Sie, das Produkt innerhalb einer angemessenen Frist und ohne erhebliche Unannehmlichkeiten für mich kostenlos zu reparieren.
+
+Bitte teilen Sie mir bis zum 9. November 2026 schriftlich mit, wie Sie den Mangel beheben werden. Sollte ich bis dahin nichts von Ihnen hören, werde ich weitere Schritte einleiten und mich unter anderem an die Verbraucherzentrale wenden.
+
+Anlagen:
+- Kaufbeleg (Kassenbon oder Rechnung)
+
+Mit freundlichen Grüßen
+[Ihr Name]
+
+######## fr/first/no-reply
+Erika Mustermann
+2 octobre 2026
+
+À : Acme GmbH
+Objet : Défaut de conformité : Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Le 1 mars 2026, j’ai reçu de votre part le produit suivant : Pixel 9 Pro (Google, modèle GA05, commande A-1042). Le 1 octobre 2026, j’ai constaté le défaut suivant : Das Display flackert.
+
+Démarches déjà effectuées : Werksreset
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Comme vous n’avez pas réparé ou remplacé le bien dans un délai raisonnable, je demande la résolution du contrat et le remboursement intégral de 899 €. Je vous retournerai le produit dès que vous m’aurez indiqué les modalités de retour.
+
+Je vous remercie de me confirmer par écrit, au plus tard le 16 octobre 2026, la solution que vous proposez. À défaut de réponse dans ce délai, j’engagerai d’autres démarches, notamment en saisissant un médiateur de la consommation.
+
+Pièces jointes :
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/first/refused
+Erika Mustermann
+2 octobre 2026
+
+À : Acme GmbH
+Objet : Défaut de conformité : Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Le 1 mars 2026, j’ai reçu de votre part le produit suivant : Pixel 9 Pro (Google, modèle GA05, commande A-1042). Le 1 octobre 2026, j’ai constaté le défaut suivant : Das Display flackert.
+
+Démarches déjà effectuées : Werksreset
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Comme vous avez refusé de mettre le bien en conformité, je demande la résolution du contrat et le remboursement intégral de 899 €. Je vous retournerai le produit dès que vous m’aurez indiqué les modalités de retour.
+
+Je vous remercie de me confirmer par écrit, au plus tard le 16 octobre 2026, la solution que vous proposez. À défaut de réponse dans ce délai, j’engagerai d’autres démarches, notamment en saisissant un médiateur de la consommation.
+
+Pièces jointes :
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/followup/no-reply
+Erika Mustermann
+12 octobre 2026
+
+À : Acme GmbH
+Objet : Dernière relance : défaut de conformité, Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Par courrier du 2 octobre 2026, je vous ai signalé un défaut du produit suivant : Pixel 9 Pro, livré le 1 mars 2026. Je n’ai reçu aucune réponse depuis.
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Comme vous n’avez pas réparé ou remplacé le bien dans un délai raisonnable, je demande la résolution du contrat et le remboursement intégral de 899 €. Je vous retournerai le produit dès que vous m’aurez indiqué les modalités de retour.
+
+Il s’agit de ma dernière demande. Si le problème n’est pas résolu au plus tard le 19 octobre 2026, je saisirai un médiateur de la consommation et j’envisagerai une action en justice.
+
+Pièces jointes :
+- Copie de mon courrier du 2 octobre 2026
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/followup/refused
+Erika Mustermann
+12 octobre 2026
+
+À : Acme GmbH
+Objet : Dernière relance : défaut de conformité, Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Par courrier du 2 octobre 2026, je vous ai signalé un défaut du produit suivant : Pixel 9 Pro, livré le 1 mars 2026. Depuis, vous avez refusé de résoudre le problème.
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Comme vous avez refusé de mettre le bien en conformité, je demande la résolution du contrat et le remboursement intégral de 899 €. Je vous retournerai le produit dès que vous m’aurez indiqué les modalités de retour.
+
+Il s’agit de ma dernière demande. Si le problème n’est pas résolu au plus tard le 19 octobre 2026, je saisirai un médiateur de la consommation et j’envisagerai une action en justice.
+
+Pièces jointes :
+- Copie de mon courrier du 2 octobre 2026
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/rejection/no-reply
+Erika Mustermann
+26 octobre 2026
+
+À : Acme GmbH
+Objet : Contestation de votre refus : Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Par courrier du 2 octobre 2026, je vous ai demandé de remédier à un défaut du produit suivant : Pixel 9 Pro (Google, modèle GA05), livré le 1 mars 2026. Le 10 octobre 2026, vous avez rejeté ma réclamation pour le motif suivant : « Kein Mangel ».
+
+Je conteste cette décision. Le défaut est le suivant : Das Display flackert.
+
+Démarches déjà effectuées : Werksreset
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Comme vous avez refusé de mettre le bien en conformité, je demande la résolution du contrat et le remboursement intégral de 899 €. Je vous retournerai le produit dès que vous m’aurez indiqué les modalités de retour.
+
+Je vous demande de reconsidérer votre décision et de me confirmer par écrit, au plus tard le 9 novembre 2026, la solution que vous proposez. Si vous maintenez votre refus, j’engagerai d’autres démarches, notamment en saisissant un médiateur de la consommation.
+
+Pièces jointes :
+- Copie de votre refus
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/rejection/refused
+Erika Mustermann
+26 octobre 2026
+
+À : Acme GmbH
+Objet : Contestation de votre refus : Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Par courrier du 2 octobre 2026, je vous ai demandé de remédier à un défaut du produit suivant : Pixel 9 Pro (Google, modèle GA05), livré le 1 mars 2026. Le 10 octobre 2026, vous avez rejeté ma réclamation pour le motif suivant : « Kein Mangel ».
+
+Je conteste cette décision. Le défaut est le suivant : Das Display flackert.
+
+Démarches déjà effectuées : Werksreset
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Comme vous avez refusé de mettre le bien en conformité, je demande la résolution du contrat et le remboursement intégral de 899 €. Je vous retournerai le produit dès que vous m’aurez indiqué les modalités de retour.
+
+Je vous demande de reconsidérer votre décision et de me confirmer par écrit, au plus tard le 9 novembre 2026, la solution que vous proposez. Si vous maintenez votre refus, j’engagerai d’autres démarches, notamment en saisissant un médiateur de la consommation.
+
+Pièces jointes :
+- Copie de votre refus
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/complaint/no-reply
+Erika Mustermann
+26 octobre 2026
+
+À : Médiateur de la consommation
+Objet : Réclamation contre Acme GmbH : Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Je souhaite déposer une réclamation à l’encontre du vendeur suivant : Acme GmbH. Le 1 mars 2026, j’ai reçu de ce vendeur le produit suivant : Pixel 9 Pro (Google, modèle GA05, commande A-1042). Le 1 octobre 2026, j’ai constaté le défaut suivant : Das Display flackert.
+
+Démarches déjà effectuées : Werksreset
+
+Le 2 octobre 2026, j’ai demandé par écrit au vendeur de résoudre le problème. Je n’ai reçu aucune réponse. Le 12 octobre 2026, j’ai envoyé une dernière relance, sans que le problème soit résolu.
+
+J’estime que le vendeur est responsable de ce défaut au titre du droit de la consommation, qui oblige les vendeurs à livrer des biens conformes au contrat.
+
+Je demande un remboursement intégral. Je vous remercie d’examiner cette réclamation et de m’indiquer comment vous pouvez m’aider, ainsi que les démarches qui s’offrent à moi.
+
+Pièces jointes :
+- Preuve d’achat (ticket de caisse ou facture)
+- Copies de mes échanges avec le vendeur
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/complaint/refused
+Erika Mustermann
+26 octobre 2026
+
+À : Médiateur de la consommation
+Objet : Réclamation contre Acme GmbH : Pixel 9 Pro (commande A-1042)
+
+Madame, Monsieur,
+
+Je souhaite déposer une réclamation à l’encontre du vendeur suivant : Acme GmbH. Le 1 mars 2026, j’ai reçu de ce vendeur le produit suivant : Pixel 9 Pro (Google, modèle GA05, commande A-1042). Le 1 octobre 2026, j’ai constaté le défaut suivant : Das Display flackert.
+
+Démarches déjà effectuées : Werksreset
+
+Le 2 octobre 2026, j’ai demandé par écrit au vendeur de résoudre le problème. Le vendeur a refusé, pour le motif suivant : « Kein Mangel ». Le 12 octobre 2026, j’ai envoyé une dernière relance, sans que le problème soit résolu.
+
+J’estime que le vendeur est responsable de ce défaut au titre du droit de la consommation, qui oblige les vendeurs à livrer des biens conformes au contrat.
+
+Je demande un remboursement intégral. Je vous remercie d’examiner cette réclamation et de m’indiquer comment vous pouvez m’aider, ainsi que les démarches qui s’offrent à moi.
+
+Pièces jointes :
+- Preuve d’achat (ticket de caisse ou facture)
+- Copies de mes échanges avec le vendeur
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+Erika Mustermann
+
+######## fr/first/empty
+[Votre nom]
+26 octobre 2026
+
+À : [Nom du vendeur]
+Objet : Défaut de conformité : smartphone
+
+Madame, Monsieur,
+
+Le [date de livraison], j’ai reçu de votre part le produit suivant : smartphone. Il présente le défaut suivant : [Décrivez le défaut]
+
+En tant que vendeur, vous êtes tenu, au titre du droit de la consommation, de livrer un bien conforme au contrat, et j’estime que ce défaut relève de cette obligation.
+
+Je vous demande de réparer le produit gratuitement, dans un délai raisonnable et sans inconvénient majeur pour moi.
+
+Je vous remercie de me confirmer par écrit, au plus tard le 9 novembre 2026, la solution que vous proposez. À défaut de réponse dans ce délai, j’engagerai d’autres démarches, notamment en saisissant un médiateur de la consommation.
+
+Pièces jointes :
+- Preuve d’achat (ticket de caisse ou facture)
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+[Votre nom]
+
+######## es/first/no-reply
+Erika Mustermann
+2 de octubre de 2026
+
+Para: Acme GmbH
+Asunto: Falta de conformidad: Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+El 1 de marzo de 2026 recibí de ustedes el siguiente producto: Pixel 9 Pro (Google, modelo GA05, pedido A-1042). El 1 de octubre de 2026 detecté el siguiente defecto: Das Display flackert.
+
+Medidas que ya he tomado: Werksreset
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Dado que no han reparado ni sustituido el producto en un plazo razonable, solicito la resolución del contrato y el reembolso íntegro de 899 €. Les devolveré el producto en cuanto me indiquen cómo hacerlo.
+
+Les ruego que me confirmen por escrito, a más tardar el 16 de octubre de 2026, cómo van a resolver esta situación. Si no recibo respuesta en ese plazo, tomaré otras medidas, entre ellas acudir a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo.
+
+Documentos adjuntos:
+- Justificante de compra (tique o factura)
+
+Atentamente,
+Erika Mustermann
+
+######## es/first/refused
+Erika Mustermann
+2 de octubre de 2026
+
+Para: Acme GmbH
+Asunto: Falta de conformidad: Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+El 1 de marzo de 2026 recibí de ustedes el siguiente producto: Pixel 9 Pro (Google, modelo GA05, pedido A-1042). El 1 de octubre de 2026 detecté el siguiente defecto: Das Display flackert.
+
+Medidas que ya he tomado: Werksreset
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Dado que se han negado a poner el producto en conformidad, solicito la resolución del contrato y el reembolso íntegro de 899 €. Les devolveré el producto en cuanto me indiquen cómo hacerlo.
+
+Les ruego que me confirmen por escrito, a más tardar el 16 de octubre de 2026, cómo van a resolver esta situación. Si no recibo respuesta en ese plazo, tomaré otras medidas, entre ellas acudir a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo.
+
+Documentos adjuntos:
+- Justificante de compra (tique o factura)
+
+Atentamente,
+Erika Mustermann
+
+######## es/followup/no-reply
+Erika Mustermann
+12 de octubre de 2026
+
+Para: Acme GmbH
+Asunto: Último requerimiento: falta de conformidad, Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+Mediante carta del 2 de octubre de 2026 les comuniqué un defecto en el siguiente producto: Pixel 9 Pro, entregado el 1 de marzo de 2026. Desde entonces, no he recibido respuesta.
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Dado que no han reparado ni sustituido el producto en un plazo razonable, solicito la resolución del contrato y el reembolso íntegro de 899 €. Les devolveré el producto en cuanto me indiquen cómo hacerlo.
+
+Este es mi último requerimiento. Si el asunto no se resuelve a más tardar el 19 de octubre de 2026, acudiré a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo y valoraré emprender acciones judiciales.
+
+Documentos adjuntos:
+- Copia de mi carta del 2 de octubre de 2026
+- Justificante de compra (tique o factura)
+
+Atentamente,
+Erika Mustermann
+
+######## es/followup/refused
+Erika Mustermann
+12 de octubre de 2026
+
+Para: Acme GmbH
+Asunto: Último requerimiento: falta de conformidad, Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+Mediante carta del 2 de octubre de 2026 les comuniqué un defecto en el siguiente producto: Pixel 9 Pro, entregado el 1 de marzo de 2026. Desde entonces, se han negado a resolver el problema.
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Dado que se han negado a poner el producto en conformidad, solicito la resolución del contrato y el reembolso íntegro de 899 €. Les devolveré el producto en cuanto me indiquen cómo hacerlo.
+
+Este es mi último requerimiento. Si el asunto no se resuelve a más tardar el 19 de octubre de 2026, acudiré a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo y valoraré emprender acciones judiciales.
+
+Documentos adjuntos:
+- Copia de mi carta del 2 de octubre de 2026
+- Justificante de compra (tique o factura)
+
+Atentamente,
+Erika Mustermann
+
+######## es/rejection/no-reply
+Erika Mustermann
+26 de octubre de 2026
+
+Para: Acme GmbH
+Asunto: Su rechazo de mi reclamación: Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+Mediante carta del 2 de octubre de 2026 les solicité que resolvieran un defecto en el siguiente producto: Pixel 9 Pro (Google, modelo GA05), entregado el 1 de marzo de 2026. El 10 de octubre de 2026 rechazaron mi reclamación con el siguiente motivo: «Kein Mangel».
+
+No acepto esta decisión. El defecto es el siguiente: Das Display flackert.
+
+Medidas que ya he tomado: Werksreset
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Dado que se han negado a poner el producto en conformidad, solicito la resolución del contrato y el reembolso íntegro de 899 €. Les devolveré el producto en cuanto me indiquen cómo hacerlo.
+
+Les ruego que reconsideren su decisión y me confirmen por escrito, a más tardar el 9 de noviembre de 2026, cómo van a resolver esta situación. Si mantienen su rechazo, tomaré otras medidas, entre ellas acudir a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo.
+
+Documentos adjuntos:
+- Copia de su rechazo
+- Justificante de compra (tique o factura)
+
+Atentamente,
+Erika Mustermann
+
+######## es/rejection/refused
+Erika Mustermann
+26 de octubre de 2026
+
+Para: Acme GmbH
+Asunto: Su rechazo de mi reclamación: Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+Mediante carta del 2 de octubre de 2026 les solicité que resolvieran un defecto en el siguiente producto: Pixel 9 Pro (Google, modelo GA05), entregado el 1 de marzo de 2026. El 10 de octubre de 2026 rechazaron mi reclamación con el siguiente motivo: «Kein Mangel».
+
+No acepto esta decisión. El defecto es el siguiente: Das Display flackert.
+
+Medidas que ya he tomado: Werksreset
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Dado que se han negado a poner el producto en conformidad, solicito la resolución del contrato y el reembolso íntegro de 899 €. Les devolveré el producto en cuanto me indiquen cómo hacerlo.
+
+Les ruego que reconsideren su decisión y me confirmen por escrito, a más tardar el 9 de noviembre de 2026, cómo van a resolver esta situación. Si mantienen su rechazo, tomaré otras medidas, entre ellas acudir a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo.
+
+Documentos adjuntos:
+- Copia de su rechazo
+- Justificante de compra (tique o factura)
+
+Atentamente,
+Erika Mustermann
+
+######## es/complaint/no-reply
+Erika Mustermann
+26 de octubre de 2026
+
+Para: Oficina Municipal de Información al Consumidor (OMIC)
+Asunto: Reclamación contra Acme GmbH: Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+Deseo presentar una reclamación contra Acme GmbH. El 1 de marzo de 2026 recibí de esta empresa el siguiente producto: Pixel 9 Pro (Google, modelo GA05, pedido A-1042). El 1 de octubre de 2026 detecté el siguiente defecto: Das Display flackert.
+
+Medidas que ya he tomado: Werksreset
+
+El 2 de octubre de 2026 solicité por escrito al vendedor que resolviera el problema. No he recibido respuesta. El 12 de octubre de 2026 envié un último requerimiento, sin que el asunto se resolviera.
+
+Considero que el vendedor es responsable de este defecto conforme a la normativa de consumo, que obliga a los vendedores a entregar productos conformes con el contrato.
+
+Solicito el reembolso íntegro. Les ruego que examinen esta reclamación y me indiquen cómo pueden ayudarme, así como las opciones de que dispongo.
+
+Documentos adjuntos:
+- Justificante de compra (tique o factura)
+- Copias de mi correspondencia con el vendedor
+
+Atentamente,
+Erika Mustermann
+
+######## es/complaint/refused
+Erika Mustermann
+26 de octubre de 2026
+
+Para: Oficina Municipal de Información al Consumidor (OMIC)
+Asunto: Reclamación contra Acme GmbH: Pixel 9 Pro (pedido A-1042)
+
+Estimados señores:
+
+Deseo presentar una reclamación contra Acme GmbH. El 1 de marzo de 2026 recibí de esta empresa el siguiente producto: Pixel 9 Pro (Google, modelo GA05, pedido A-1042). El 1 de octubre de 2026 detecté el siguiente defecto: Das Display flackert.
+
+Medidas que ya he tomado: Werksreset
+
+El 2 de octubre de 2026 solicité por escrito al vendedor que resolviera el problema. El vendedor se negó, con el siguiente motivo: «Kein Mangel». El 12 de octubre de 2026 envié un último requerimiento, sin que el asunto se resolviera.
+
+Considero que el vendedor es responsable de este defecto conforme a la normativa de consumo, que obliga a los vendedores a entregar productos conformes con el contrato.
+
+Solicito el reembolso íntegro. Les ruego que examinen esta reclamación y me indiquen cómo pueden ayudarme, así como las opciones de que dispongo.
+
+Documentos adjuntos:
+- Justificante de compra (tique o factura)
+- Copias de mi correspondencia con el vendedor
+
+Atentamente,
+Erika Mustermann
+
+######## es/first/empty
+[Su nombre]
+26 de octubre de 2026
+
+Para: [Nombre del vendedor]
+Asunto: Falta de conformidad: teléfono móvil
+
+Estimados señores:
+
+El [fecha de entrega] recibí de ustedes el siguiente producto: teléfono móvil. Presenta el siguiente defecto: [Describa el defecto]
+
+Como vendedores, ustedes son responsables, conforme a la normativa de consumo, de que el producto sea conforme con el contrato, y considero que este defecto entra en dicha responsabilidad.
+
+Les solicito que reparen el producto de forma gratuita, en un plazo razonable y sin mayores inconvenientes para mí.
+
+Les ruego que me confirmen por escrito, a más tardar el 9 de noviembre de 2026, cómo van a resolver esta situación. Si no recibo respuesta en ese plazo, tomaré otras medidas, entre ellas acudir a la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo.
+
+Documentos adjuntos:
+- Justificante de compra (tique o factura)
+
+Atentamente,
+[Su nombre]
+
+######## nl/first/no-reply
+Erika Mustermann
+2 oktober 2026
+
+Aan: Acme GmbH
+Onderwerp: Defect product: Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Op 1 maart 2026 heb ik van u het volgende product ontvangen: Pixel 9 Pro (Google, model GA05, bestelnummer A-1042). Op 1 oktober 2026 heb ik het volgende gebrek geconstateerd: Das Display flackert.
+
+Wat ik al heb geprobeerd: Werksreset
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Omdat u het product niet binnen een redelijke termijn heeft gerepareerd of vervangen, wil ik de overeenkomst ontbinden en verzoek ik om terugbetaling van het volledige aankoopbedrag van € 899. Ik stuur het product terug zodra u mij laat weten hoe ik dat moet doen.
+
+Graag ontvang ik uiterlijk 16 oktober 2026 uw schriftelijke bevestiging van hoe u dit oplost. Als ik dan niets van u heb gehoord, zal ik verdere stappen zetten en mij onder meer wenden tot De Geschillencommissie.
+
+Bijlagen:
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/first/refused
+Erika Mustermann
+2 oktober 2026
+
+Aan: Acme GmbH
+Onderwerp: Defect product: Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Op 1 maart 2026 heb ik van u het volgende product ontvangen: Pixel 9 Pro (Google, model GA05, bestelnummer A-1042). Op 1 oktober 2026 heb ik het volgende gebrek geconstateerd: Das Display flackert.
+
+Wat ik al heb geprobeerd: Werksreset
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Omdat u heeft geweigerd het product in overeenstemming met de overeenkomst te brengen, wil ik de overeenkomst ontbinden en verzoek ik om terugbetaling van het volledige aankoopbedrag van € 899. Ik stuur het product terug zodra u mij laat weten hoe ik dat moet doen.
+
+Graag ontvang ik uiterlijk 16 oktober 2026 uw schriftelijke bevestiging van hoe u dit oplost. Als ik dan niets van u heb gehoord, zal ik verdere stappen zetten en mij onder meer wenden tot De Geschillencommissie.
+
+Bijlagen:
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/followup/no-reply
+Erika Mustermann
+12 oktober 2026
+
+Aan: Acme GmbH
+Onderwerp: Laatste herinnering: defect product, Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Bij brief van 2 oktober 2026 heb ik u gewezen op een defect aan het volgende product: Pixel 9 Pro, geleverd op 1 maart 2026. Sindsdien heb ik geen reactie ontvangen.
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Omdat u het product niet binnen een redelijke termijn heeft gerepareerd of vervangen, wil ik de overeenkomst ontbinden en verzoek ik om terugbetaling van het volledige aankoopbedrag van € 899. Ik stuur het product terug zodra u mij laat weten hoe ik dat moet doen.
+
+Dit is mijn laatste verzoek. Als de kwestie uiterlijk 19 oktober 2026 niet is opgelost, leg ik deze voor aan De Geschillencommissie en overweeg ik juridische stappen.
+
+Bijlagen:
+- Kopie van mijn brief van 2 oktober 2026
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/followup/refused
+Erika Mustermann
+12 oktober 2026
+
+Aan: Acme GmbH
+Onderwerp: Laatste herinnering: defect product, Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Bij brief van 2 oktober 2026 heb ik u gewezen op een defect aan het volgende product: Pixel 9 Pro, geleverd op 1 maart 2026. Sindsdien heeft u geweigerd het probleem op te lossen.
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Omdat u heeft geweigerd het product in overeenstemming met de overeenkomst te brengen, wil ik de overeenkomst ontbinden en verzoek ik om terugbetaling van het volledige aankoopbedrag van € 899. Ik stuur het product terug zodra u mij laat weten hoe ik dat moet doen.
+
+Dit is mijn laatste verzoek. Als de kwestie uiterlijk 19 oktober 2026 niet is opgelost, leg ik deze voor aan De Geschillencommissie en overweeg ik juridische stappen.
+
+Bijlagen:
+- Kopie van mijn brief van 2 oktober 2026
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/rejection/no-reply
+Erika Mustermann
+26 oktober 2026
+
+Aan: Acme GmbH
+Onderwerp: Uw afwijzing van mijn klacht: Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Bij brief van 2 oktober 2026 heb ik u gevraagd een defect te verhelpen aan het volgende product: Pixel 9 Pro (Google, model GA05), geleverd op 1 maart 2026. Op 10 oktober 2026 heeft u mijn klacht afgewezen, met de volgende reden: "Kein Mangel".
+
+Ik ga niet akkoord met deze beslissing. Het gebrek is als volgt: Das Display flackert.
+
+Wat ik al heb geprobeerd: Werksreset
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Omdat u heeft geweigerd het product in overeenstemming met de overeenkomst te brengen, wil ik de overeenkomst ontbinden en verzoek ik om terugbetaling van het volledige aankoopbedrag van € 899. Ik stuur het product terug zodra u mij laat weten hoe ik dat moet doen.
+
+Ik verzoek u uw beslissing te heroverwegen en mij uiterlijk 9 november 2026 schriftelijk te laten weten hoe u dit oplost. Als u bij uw afwijzing blijft, zal ik verdere stappen zetten en mij onder meer wenden tot De Geschillencommissie.
+
+Bijlagen:
+- Kopie van uw afwijzing
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/rejection/refused
+Erika Mustermann
+26 oktober 2026
+
+Aan: Acme GmbH
+Onderwerp: Uw afwijzing van mijn klacht: Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Bij brief van 2 oktober 2026 heb ik u gevraagd een defect te verhelpen aan het volgende product: Pixel 9 Pro (Google, model GA05), geleverd op 1 maart 2026. Op 10 oktober 2026 heeft u mijn klacht afgewezen, met de volgende reden: "Kein Mangel".
+
+Ik ga niet akkoord met deze beslissing. Het gebrek is als volgt: Das Display flackert.
+
+Wat ik al heb geprobeerd: Werksreset
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Omdat u heeft geweigerd het product in overeenstemming met de overeenkomst te brengen, wil ik de overeenkomst ontbinden en verzoek ik om terugbetaling van het volledige aankoopbedrag van € 899. Ik stuur het product terug zodra u mij laat weten hoe ik dat moet doen.
+
+Ik verzoek u uw beslissing te heroverwegen en mij uiterlijk 9 november 2026 schriftelijk te laten weten hoe u dit oplost. Als u bij uw afwijzing blijft, zal ik verdere stappen zetten en mij onder meer wenden tot De Geschillencommissie.
+
+Bijlagen:
+- Kopie van uw afwijzing
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/complaint/no-reply
+Erika Mustermann
+26 oktober 2026
+
+Aan: De Geschillencommissie
+Onderwerp: Klacht over Acme GmbH: Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Hierbij dien ik een klacht in over Acme GmbH. Op 1 maart 2026 heb ik van dit bedrijf het volgende product ontvangen: Pixel 9 Pro (Google, model GA05, bestelnummer A-1042). Op 1 oktober 2026 heb ik het volgende gebrek geconstateerd: Das Display flackert.
+
+Wat ik al heb geprobeerd: Werksreset
+
+Op 2 oktober 2026 heb ik de verkoper schriftelijk gevraagd het probleem op te lossen. Ik heb geen reactie ontvangen. Op 12 oktober 2026 heb ik een laatste herinnering gestuurd, zonder dat de kwestie is opgelost.
+
+Naar mijn mening is de verkoper verantwoordelijk voor dit gebrek op grond van het consumentenrecht, dat verkopers verplicht producten te leveren die aan de overeenkomst beantwoorden.
+
+Ik vraag om volledige terugbetaling. Wilt u deze klacht in behandeling nemen en mij laten weten hoe u mij kunt helpen en welke vervolgstappen ik kan zetten?
+
+Bijlagen:
+- Aankoopbewijs (kassabon of factuur)
+- Kopieën van mijn correspondentie met de verkoper
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/complaint/refused
+Erika Mustermann
+26 oktober 2026
+
+Aan: De Geschillencommissie
+Onderwerp: Klacht over Acme GmbH: Pixel 9 Pro (bestelnummer A-1042)
+
+Geachte heer, mevrouw,
+
+Hierbij dien ik een klacht in over Acme GmbH. Op 1 maart 2026 heb ik van dit bedrijf het volgende product ontvangen: Pixel 9 Pro (Google, model GA05, bestelnummer A-1042). Op 1 oktober 2026 heb ik het volgende gebrek geconstateerd: Das Display flackert.
+
+Wat ik al heb geprobeerd: Werksreset
+
+Op 2 oktober 2026 heb ik de verkoper schriftelijk gevraagd het probleem op te lossen. De verkoper heeft dit geweigerd, met de volgende reden: "Kein Mangel". Op 12 oktober 2026 heb ik een laatste herinnering gestuurd, zonder dat de kwestie is opgelost.
+
+Naar mijn mening is de verkoper verantwoordelijk voor dit gebrek op grond van het consumentenrecht, dat verkopers verplicht producten te leveren die aan de overeenkomst beantwoorden.
+
+Ik vraag om volledige terugbetaling. Wilt u deze klacht in behandeling nemen en mij laten weten hoe u mij kunt helpen en welke vervolgstappen ik kan zetten?
+
+Bijlagen:
+- Aankoopbewijs (kassabon of factuur)
+- Kopieën van mijn correspondentie met de verkoper
+
+Met vriendelijke groet,
+Erika Mustermann
+
+######## nl/first/empty
+[Uw naam]
+26 oktober 2026
+
+Aan: [Naam verkoper]
+Onderwerp: Defect product: telefoon
+
+Geachte heer, mevrouw,
+
+Op [leverdatum] heb ik van u het volgende product ontvangen: telefoon. Het product vertoont het volgende gebrek: [Beschrijf het gebrek]
+
+Als verkoper bent u op grond van het consumentenrecht verantwoordelijk voor een product dat aan de overeenkomst beantwoordt, en naar mijn mening valt dit gebrek daaronder.
+
+Ik verzoek u het product binnen een redelijke termijn en zonder ernstige overlast voor mij kosteloos te repareren.
+
+Graag ontvang ik uiterlijk 9 november 2026 uw schriftelijke bevestiging van hoe u dit oplost. Als ik dan niets van u heb gehoord, zal ik verdere stappen zetten en mij onder meer wenden tot De Geschillencommissie.
+
+Bijlagen:
+- Aankoopbewijs (kassabon of factuur)
+
+Met vriendelijke groet,
+[Uw naam]

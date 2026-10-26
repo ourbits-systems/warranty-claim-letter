@@ -1,0 +1,12 @@
+node_modules/
+.output/
+.wxt/
+dist/
+*.log
+.DS_Store
+coverage/
+web-ext-artifacts/
+.env
+.env.*
+_coder/
+docs/

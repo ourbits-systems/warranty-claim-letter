@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "HoldMyBill का वारंटी क्लेम असिस्टेंट",
+    "description": "Extension name in the browser and the stores. Keep 'HoldMyBill' untranslated. Max 75 characters."
+  },
+  "extShortName": {
+    "message": "वारंटी क्लेम असिस्टेंट",
+    "description": "Short name, used where space is tight. Max 45 characters."
+  },
+  "extDescription": {
+    "message": "वारंटी क्लेम, मरम्मत अनुरोध, रिफ़ंड अनुरोध और फ़ॉलो-अप पत्र पेशेवर तरीके से तैयार करें।",
+    "description": "Store short description. Max 132 characters."
+  },
+  "actionTitle": {
+    "message": "वारंटी क्लेम असिस्टेंट खोलें",
+    "description": "Tooltip on the toolbar button."
+  }
+}

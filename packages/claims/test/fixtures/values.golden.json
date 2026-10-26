@@ -1,0 +1,720 @@
+{
+  "CLAIM_VERSION": 2,
+  "STORAGE_KEY": "hmb.claim",
+  "CATEGORIES": [
+    {
+      "value": "phone",
+      "label": "Phone"
+    },
+    {
+      "value": "laptop",
+      "label": "Laptop or computer"
+    },
+    {
+      "value": "tablet",
+      "label": "Tablet"
+    },
+    {
+      "value": "tv",
+      "label": "TV or monitor"
+    },
+    {
+      "value": "appliance",
+      "label": "Large appliance (washer, fridge)"
+    },
+    {
+      "value": "small-appliance",
+      "label": "Small appliance (coffee machine, vacuum)"
+    },
+    {
+      "value": "audio",
+      "label": "Headphones or speakers"
+    },
+    {
+      "value": "wearable",
+      "label": "Smartwatch or wearable"
+    },
+    {
+      "value": "other",
+      "label": "Something else"
+    }
+  ],
+  "REMEDIES": [
+    {
+      "value": "repair",
+      "label": "Repair"
+    },
+    {
+      "value": "replace",
+      "label": "Replacement"
+    },
+    {
+      "value": "refund",
+      "label": "Refund"
+    }
+  ],
+  "SELLER_RESPONSES": [
+    {
+      "value": "not-contacted",
+      "label": "I have not contacted them yet"
+    },
+    {
+      "value": "no-reply",
+      "label": "I contacted them, no reply"
+    },
+    {
+      "value": "refused",
+      "label": "They refused or sent me to the manufacturer"
+    }
+  ],
+  "createClaim": {
+    "v": 2,
+    "type": "warranty_claim",
+    "country": "DE",
+    "language": "en",
+    "sellerType": "business",
+    "condition": "new",
+    "product": {
+      "category": "phone",
+      "name": "",
+      "price": "",
+      "brand": "",
+      "model": "",
+      "warrantyUntil": ""
+    },
+    "seller": {
+      "name": "",
+      "email": "",
+      "orderRef": ""
+    },
+    "deliveredAt": "",
+    "fault": {
+      "description": "",
+      "noticedAt": "",
+      "troubleshooting": "",
+      "priorContact": "",
+      "priorRepairs": ""
+    },
+    "repairedAt": "",
+    "sellerResponse": "not-contacted",
+    "remedy": "repair",
+    "proof": {
+      "receipt": true,
+      "photos": false
+    },
+    "letter": {
+      "sentAt": "",
+      "followupSentAt": ""
+    },
+    "rejection": {
+      "receivedAt": "",
+      "reason": ""
+    },
+    "you": {
+      "name": ""
+    }
+  },
+  "normalizeClaim": {
+    "null": null,
+    "string": null,
+    "number": null,
+    "empty": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "DE",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "",
+        "email": "",
+        "orderRef": ""
+      },
+      "deliveredAt": "",
+      "fault": {
+        "description": "",
+        "noticedAt": "",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": false
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "future-version": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "FR",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "",
+        "email": "",
+        "orderRef": ""
+      },
+      "deliveredAt": "",
+      "fault": {
+        "description": "",
+        "noticedAt": "",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": false
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "no-version": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "FR",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "",
+        "email": "",
+        "orderRef": ""
+      },
+      "deliveredAt": "",
+      "fault": {
+        "description": "",
+        "noticedAt": "",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": false
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "partial": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "ES",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "Kettle",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "",
+        "email": "",
+        "orderRef": ""
+      },
+      "deliveredAt": "",
+      "fault": {
+        "description": "",
+        "noticedAt": "",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": false
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "wrong-types": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "DE",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "",
+        "email": "",
+        "orderRef": ""
+      },
+      "deliveredAt": "",
+      "fault": {
+        "description": "",
+        "noticedAt": "",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": true
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "extra-keys": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "DE",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "TV",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "",
+        "email": "",
+        "orderRef": ""
+      },
+      "deliveredAt": "",
+      "fault": {
+        "description": "",
+        "noticedAt": "",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": false
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "full-v1": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "DE",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "phone",
+        "name": "Pixel 9 Pro",
+        "price": "899",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "Acme Electronics GmbH",
+        "email": "support@acme.example",
+        "orderRef": "A-1042"
+      },
+      "deliveredAt": "2026-03-01",
+      "fault": {
+        "description": "The screen flickers and goes black after a few minutes.",
+        "noticedAt": "2026-10-01",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": true
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": "Jane Doe"
+      }
+    }
+  },
+  "encodeClaim": "eyJ2IjoxLCJjb3VudHJ5IjoiREUiLCJzZWxsZXJUeXBlIjoiYnVzaW5lc3MiLCJjb25kaXRpb24iOiJuZXciLCJwcm9kdWN0Ijp7ImNhdGVnb3J5IjoicGhvbmUiLCJuYW1lIjoiUGl4ZWwgOSBQcm8iLCJwcmljZSI6Ijg5OSJ9LCJzZWxsZXIiOnsibmFtZSI6IkFjbWUgRWxlY3Ryb25pY3MgR21iSCIsImVtYWlsIjoic3VwcG9ydEBhY21lLmV4YW1wbGUiLCJvcmRlclJlZiI6IkEtMTA0MiJ9LCJkZWxpdmVyZWRBdCI6IjIwMjYtMDMtMDEiLCJmYXVsdCI6eyJkZXNjcmlwdGlvbiI6IlRoZSBzY3JlZW4gZmxpY2tlcnMgYW5kIGdvZXMgYmxhY2sgYWZ0ZXIgYSBmZXcgbWludXRlcy4iLCJub3RpY2VkQXQiOiIyMDI2LTEwLTAxIn0sInJlcGFpcmVkQXQiOiIiLCJzZWxsZXJSZXNwb25zZSI6Im5vdC1jb250YWN0ZWQiLCJyZW1lZHkiOiJyZXBhaXIiLCJwcm9vZiI6eyJyZWNlaXB0Ijp0cnVlLCJwaG90b3MiOnRydWV9LCJsZXR0ZXIiOnsic2VudEF0IjoiIiwiZm9sbG93dXBTZW50QXQiOiIifX0",
+  "decodeClaim": {
+    "roundTrip": {
+      "v": 2,
+      "type": "warranty_claim",
+      "country": "DE",
+      "language": "en",
+      "sellerType": "business",
+      "condition": "new",
+      "product": {
+        "category": "tv",
+        "name": "Télé 4K – “Ünïcode” 📺",
+        "price": "",
+        "brand": "",
+        "model": "",
+        "warrantyUntil": ""
+      },
+      "seller": {
+        "name": "Acme Electronics GmbH",
+        "email": "support@acme.example",
+        "orderRef": "A-1042"
+      },
+      "deliveredAt": "2026-03-01",
+      "fault": {
+        "description": "The screen flickers and goes black after a few minutes.",
+        "noticedAt": "2026-10-01",
+        "troubleshooting": "",
+        "priorContact": "",
+        "priorRepairs": ""
+      },
+      "repairedAt": "",
+      "sellerResponse": "not-contacted",
+      "remedy": "repair",
+      "proof": {
+        "receipt": true,
+        "photos": true
+      },
+      "letter": {
+        "sentAt": "",
+        "followupSentAt": ""
+      },
+      "rejection": {
+        "receivedAt": "",
+        "reason": ""
+      },
+      "you": {
+        "name": ""
+      }
+    },
+    "garbage": null,
+    "notJson": null,
+    "empty": null
+  },
+  "todayIso": "2026-10-26",
+  "addMonths": [
+    "2026-02-28",
+    "2025-02-28",
+    "2028-02-29",
+    "2027-01-15",
+    "2026-02-28",
+    "",
+    "",
+    ""
+  ],
+  "addDays": [
+    "2026-11-09",
+    "2027-01-01",
+    "2024-02-29",
+    "2026-02-28",
+    ""
+  ],
+  "daysBetween": [
+    364,
+    2,
+    -25,
+    null
+  ],
+  "formatDate": [
+    "26 October 2026",
+    "1 January 2026",
+    "29 February 2024",
+    "",
+    "",
+    ""
+  ],
+  "rules": {
+    "REPAIR_EXTENSION_MONTHS": 12,
+    "REPAIR_EXTENSION_FROM": "2026-07-31",
+    "REPLY_DAYS": 14,
+    "FOLLOWUP_REPLY_DAYS": 7,
+    "COUNTRIES": {
+      "DE": {
+        "version": 1,
+        "label": "Germany",
+        "legalYears": 2,
+        "presumptionYears": 1,
+        "usedPresumptionYears": 1,
+        "usedMinYears": 1,
+        "law": "German Civil Code (BGB), §§ 434, 437, 439 and 477",
+        "consumerBody": "the Verbraucherzentrale",
+        "reviewedAt": null,
+        "local": {
+          "language": "de",
+          "consumerBody": "die Verbraucherzentrale",
+          "recipient": "Verbraucherzentrale"
+        },
+        "sources": [
+          {
+            "title": "Bürgerliches Gesetzbuch (BGB)",
+            "url": "https://www.gesetze-im-internet.de/bgb/"
+          },
+          {
+            "title": "Directive (EU) 2019/771",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+          }
+        ]
+      },
+      "FR": {
+        "version": 1,
+        "label": "France",
+        "legalYears": 2,
+        "presumptionYears": 2,
+        "usedPresumptionYears": 1,
+        "usedMinYears": null,
+        "law": "French Consumer Code (Code de la consommation), articles L217-3 to L217-20",
+        "consumerBody": "a consumer mediator (médiateur de la consommation)",
+        "reviewedAt": null,
+        "local": {
+          "language": "fr",
+          "consumerBody": "un médiateur de la consommation",
+          "recipient": "Médiateur de la consommation"
+        },
+        "sources": [
+          {
+            "title": "Code de la consommation, articles L217-3 à L217-20",
+            "url": "https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069565"
+          },
+          {
+            "title": "Directive (EU) 2019/771",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+          }
+        ]
+      },
+      "NL": {
+        "version": 1,
+        "label": "Netherlands",
+        "legalYears": null,
+        "presumptionYears": 1,
+        "usedPresumptionYears": 1,
+        "usedMinYears": null,
+        "law": "Dutch Civil Code (BW), Book 7, articles 7:17 to 7:24",
+        "consumerBody": "De Geschillencommissie",
+        "reviewedAt": null,
+        "local": {
+          "language": "nl",
+          "consumerBody": "De Geschillencommissie",
+          "recipient": "De Geschillencommissie"
+        },
+        "sources": [
+          {
+            "title": "Burgerlijk Wetboek Boek 7",
+            "url": "https://wetten.overheid.nl/BWBR0005290/"
+          },
+          {
+            "title": "Directive (EU) 2019/771",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+          }
+        ]
+      },
+      "ES": {
+        "version": 1,
+        "label": "Spain",
+        "legalYears": 3,
+        "presumptionYears": 2,
+        "usedPresumptionYears": 1,
+        "usedMinYears": 1,
+        "law": "Royal Legislative Decree 1/2007 (TRLGDCU), articles 114 to 124",
+        "consumerBody": "your local consumer office (OMIC) or the Consumer Arbitration Board",
+        "reviewedAt": null,
+        "local": {
+          "language": "es",
+          "consumerBody": "la Oficina Municipal de Información al Consumidor (OMIC) o la Junta Arbitral de Consumo",
+          "recipient": "Oficina Municipal de Información al Consumidor (OMIC)"
+        },
+        "sources": [
+          {
+            "title": "Real Decreto Legislativo 1/2007 (TRLGDCU)",
+            "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20555"
+          },
+          {
+            "title": "Directive (EU) 2019/771",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+          }
+        ]
+      },
+      "IE": {
+        "version": 1,
+        "label": "Ireland",
+        "legalYears": 6,
+        "presumptionYears": 1,
+        "usedPresumptionYears": 1,
+        "usedMinYears": null,
+        "law": "Consumer Rights Act 2022, Part 3",
+        "consumerBody": "the Competition and Consumer Protection Commission (CCPC)",
+        "reviewedAt": null,
+        "local": null,
+        "sources": [
+          {
+            "title": "Consumer Rights Act 2022",
+            "url": "https://www.irishstatutebook.ie/eli/2022/act/37/enacted/en/html"
+          },
+          {
+            "title": "Directive (EU) 2019/771",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+          }
+        ]
+      },
+      "OTHER": {
+        "version": 1,
+        "label": "Other EU country",
+        "legalYears": 2,
+        "presumptionYears": 1,
+        "usedPresumptionYears": 1,
+        "usedMinYears": 1,
+        "law": "Directive (EU) 2019/771 on the sale of goods, as implemented in national law",
+        "consumerBody": "the European Consumer Centre (ECC-Net) in your country",
+        "reviewedAt": null,
+        "local": null,
+        "sources": [
+          {
+            "title": "Directive (EU) 2019/771",
+            "url": "https://eur-lex.europa.eu/eli/dir/2019/771/oj"
+          },
+          {
+            "title": "Directive (EU) 2024/1799 (right to repair)",
+            "url": "https://eur-lex.europa.eu/eli/dir/2024/1799/oj"
+          }
+        ]
+      }
+    },
+    "COUNTRY_OPTIONS": [
+      {
+        "value": "DE",
+        "label": "Germany"
+      },
+      {
+        "value": "FR",
+        "label": "France"
+      },
+      {
+        "value": "NL",
+        "label": "Netherlands"
+      },
+      {
+        "value": "ES",
+        "label": "Spain"
+      },
+      {
+        "value": "IE",
+        "label": "Ireland"
+      },
+      {
+        "value": "OTHER",
+        "label": "Other EU country"
+      }
+    ],
+    "rulesReviewedAt": null,
+    "unknownCountry": "Other EU country"
+  }
+}

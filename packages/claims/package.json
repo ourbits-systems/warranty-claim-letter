@@ -1,0 +1,24 @@
+{
+  "name": "@holdmybill/claims",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Framework-free warranty claim engine: claim record, legal guarantee rules and letters",
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": "./src/index.js",
+    "./claim": "./src/claim.js",
+    "./rules": "./src/rules.js",
+    "./letter": "./src/letter.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}

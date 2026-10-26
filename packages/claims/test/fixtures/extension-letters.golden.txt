@@ -1,0 +1,530 @@
+######## warranty_claim/fresh
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you repair or replace the Pixel 9 Pro free of charge. If you cannot do this within a reasonable time and without significant inconvenience to me, I will ask to end the contract and receive a full refund.
+
+Please confirm in writing by 9 November 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## warranty_claim/answered
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+Because you have refused to bring the goods into conformity, I ask to end the contract and receive a full refund. I will return the Pixel 9 Pro once you confirm how you would like it returned.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## warranty_claim/reviewed-DE
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, you as the seller are responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless you can prove otherwise.
+
+Because you have refused to bring the goods into conformity, I am entitled to end the contract. I request a full refund. I will return the Pixel 9 Pro at your expense once you confirm.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## repair_request/fresh
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you repair the Pixel 9 Pro free of charge, within a reasonable time and without significant inconvenience to me.
+
+Please confirm in writing by 9 November 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## repair_request/answered
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you repair the Pixel 9 Pro free of charge, within a reasonable time and without significant inconvenience to me.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## repair_request/reviewed-DE
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, you as the seller are responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless you can prove otherwise.
+
+I request that you repair the Pixel 9 Pro free of charge, within a reasonable time and without significant inconvenience to me, as the law requires.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## replacement_request/fresh
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you replace the Pixel 9 Pro free of charge, within a reasonable time and without significant inconvenience to me.
+
+Please confirm in writing by 9 November 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## replacement_request/answered
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you replace the Pixel 9 Pro free of charge, within a reasonable time and without significant inconvenience to me.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## replacement_request/reviewed-DE
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, you as the seller are responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless you can prove otherwise.
+
+I request that you replace the Pixel 9 Pro free of charge, within a reasonable time and without significant inconvenience to me, as the law requires.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## refund_request/fresh
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you repair or replace the Pixel 9 Pro free of charge. If you cannot do this within a reasonable time and without significant inconvenience to me, I will ask to end the contract and receive a full refund.
+
+Please confirm in writing by 9 November 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## refund_request/answered
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+Because you have refused to bring the goods into conformity, I ask to end the contract and receive a full refund. I will return the Pixel 9 Pro once you confirm how you would like it returned.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## refund_request/reviewed-DE
+Jane Doe
+2 October 2026
+
+To: Acme Electronics GmbH
+Subject: Lack of conformity: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from you. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, you as the seller are responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless you can prove otherwise.
+
+Because you have refused to bring the goods into conformity, I am entitled to end the contract. I request a full refund. I will return the Pixel 9 Pro at your expense once you confirm.
+
+Please confirm in writing by 16 October 2026 how you will resolve this. If I do not hear from you by then, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## follow_up/fresh
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Final notice: lack of conformity, Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On [date of first letter] I wrote to you about a fault in the Pixel 9 Pro, delivered on 1 March 2026. Since then, I have not received a reply.
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+I request that you repair or replace the Pixel 9 Pro free of charge. If you cannot do this within a reasonable time and without significant inconvenience to me, I will ask to end the contract and receive a full refund.
+
+This is my final request. If the matter is not resolved by 2 November 2026, I will refer it to the Verbraucherzentrale and consider taking the matter to court.
+
+Attached:
+- Copy of my letter of [date of first letter]
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## follow_up/answered
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Final notice: lack of conformity, Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 2 October 2026 I wrote to you about a fault in the Pixel 9 Pro, delivered on 1 March 2026. Since then, you have refused to resolve the problem.
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+Because you have refused to bring the goods into conformity, I ask to end the contract and receive a full refund. I will return the Pixel 9 Pro once you confirm how you would like it returned.
+
+This is my final request. If the matter is not resolved by 2 November 2026, I will refer it to the Verbraucherzentrale and consider taking the matter to court.
+
+Attached:
+- Copy of my letter of 2 October 2026
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## follow_up/reviewed-DE
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Final notice: lack of conformity, Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 2 October 2026 I wrote to you about a fault in the Pixel 9 Pro, delivered on 1 March 2026. Since then, you have refused to resolve the problem.
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, you as the seller are responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless you can prove otherwise.
+A referral to the manufacturer does not replace your own legal obligation as the seller.
+
+Because you have refused to bring the goods into conformity, I am entitled to end the contract. I request a full refund. I will return the Pixel 9 Pro at your expense once you confirm.
+
+This is my final request. If the matter is not resolved by 2 November 2026, I will refer it to the Verbraucherzentrale and consider a claim through the courts, including the European Small Claims Procedure where it applies.
+
+Attached:
+- Copy of my letter of 2 October 2026
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## rejection_response/fresh
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Your rejection of my claim: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+I asked you to resolve a fault in the Pixel 9 Pro (Google, model GA05), delivered on 1 March 2026. You rejected my claim.
+
+I do not accept this decision. The fault is as follows: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+Because you have refused to bring the goods into conformity, I ask to end the contract and receive a full refund. I will return the Pixel 9 Pro once you confirm how you would like it returned.
+
+Please reconsider your decision and confirm in writing by 9 November 2026 how you will resolve this. If you maintain your rejection, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## rejection_response/answered
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Your rejection of my claim: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 2 October 2026 I asked you to resolve a fault in the Pixel 9 Pro (Google, model GA05), delivered on 1 March 2026. On 10 October 2026 you rejected my claim, giving this reason: "Not a defect".
+
+I do not accept this decision. The fault is as follows: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+As the seller, you are responsible under consumer law for goods that do not conform to the contract, and I believe this fault falls under that responsibility.
+
+Because you have refused to bring the goods into conformity, I ask to end the contract and receive a full refund. I will return the Pixel 9 Pro once you confirm how you would like it returned.
+
+Please reconsider your decision and confirm in writing by 9 November 2026 how you will resolve this. If you maintain your rejection, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Copy of your rejection
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## rejection_response/reviewed-DE
+Jane Doe
+26 October 2026
+
+To: Acme Electronics GmbH
+Subject: Your rejection of my claim: Pixel 9 Pro
+
+Dear Acme Electronics GmbH,
+
+On 2 October 2026 I asked you to resolve a fault in the Pixel 9 Pro (Google, model GA05), delivered on 1 March 2026. On 10 October 2026 you rejected my claim, giving this reason: "Not a defect".
+
+I do not accept this decision. The fault is as follows: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, you as the seller are responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless you can prove otherwise. A referral to the manufacturer does not replace your own legal obligation as the seller.
+
+Because you have refused to bring the goods into conformity, I am entitled to end the contract. I request a full refund. I will return the Pixel 9 Pro at your expense once you confirm.
+
+Please reconsider your decision and confirm in writing by 9 November 2026 how you will resolve this. If you maintain your rejection, I will take further steps, including contacting the Verbraucherzentrale.
+
+Attached:
+- Copy of your rejection
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## formal_complaint/fresh
+Jane Doe
+26 October 2026
+
+To: The Verbraucherzentrale
+Subject: Complaint about Acme Electronics GmbH: Pixel 9 Pro
+
+Dear Sir or Madam,
+
+I would like to make a formal complaint about Acme Electronics GmbH. On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from them. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+I believe the seller is responsible for this fault under consumer law, which makes sellers responsible for goods that do not conform to the contract.
+
+I am asking for a full refund. Please look into this complaint and let me know how you can help, including any next steps available to me.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+
+Kind regards,
+Jane Doe
+
+######## formal_complaint/answered
+Jane Doe
+26 October 2026
+
+To: The Verbraucherzentrale
+Subject: Complaint about Acme Electronics GmbH: Pixel 9 Pro
+
+Dear Sir or Madam,
+
+I would like to make a formal complaint about Acme Electronics GmbH. On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from them. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+On 2 October 2026 I asked the seller in writing to resolve the problem. The seller refused, giving this reason: "Not a defect".
+
+I believe the seller is responsible for this fault under consumer law, which makes sellers responsible for goods that do not conform to the contract.
+
+I am asking for a full refund. Please look into this complaint and let me know how you can help, including any next steps available to me.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+- Copies of my correspondence with the seller
+
+Kind regards,
+Jane Doe
+
+######## formal_complaint/reviewed-DE
+Jane Doe
+26 October 2026
+
+To: The Verbraucherzentrale
+Subject: Complaint about Acme Electronics GmbH: Pixel 9 Pro
+
+Dear Sir or Madam,
+
+I would like to make a formal complaint about Acme Electronics GmbH. On 1 March 2026 I received the Pixel 9 Pro (Google, model GA05) from them. On 1 October 2026 I noticed the following fault: The screen flickers.
+
+Steps I have already taken: Factory reset
+
+On 2 October 2026 I asked the seller in writing to resolve the problem. The seller refused, giving this reason: "Not a defect".
+
+Under German Civil Code (BGB), §§ 434, 437, 439 and 477, which implements Directive (EU) 2019/771, the seller is responsible for any lack of conformity that becomes apparent within 2 years of delivery. Because the fault became apparent within one year of delivery, it is presumed to have existed at the time of delivery unless the seller can prove otherwise.
+
+I am asking for a full refund. Please look into this complaint and let me know how you can help, including any next steps available to me.
+
+Attached:
+- Proof of purchase (receipt or invoice)
+- Copies of my correspondence with the seller
+
+Kind regards,
+Jane Doe

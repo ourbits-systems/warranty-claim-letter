@@ -1,0 +1,152 @@
+/* Design tokens copied from the website's app/globals.css (source of truth),
+   except where WCAG AA contrast required a change (marked "a11y").
+   Fonts are bundled: MV3 extension pages cannot load Google Fonts. */
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import '@fontsource-variable/outfit';
+@import '@fontsource-variable/petrona';
+@import '@fontsource-variable/noto-sans-devanagari';
+@import '@fontsource-variable/noto-sans-arabic';
+
+/* Dark mode follows the system unless Settings forces .light or .dark */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  /* Latin fonts first; Hindi and Arabic glyphs fall through to Noto, which
+     each browser loads only when those scripts appear (unicode-range) */
+  --font-sans:
+    'Outfit Variable', 'Noto Sans Devanagari Variable',
+    'Noto Sans Arabic Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-serif:
+    'Petrona Variable', 'Noto Sans Devanagari Variable',
+    'Noto Sans Arabic Variable', ui-serif, Georgia, serif;
+  --shadow-card: 0px 4px 67.1px 10px #dee3e840;
+  --shadow-input: 0px 4px 56.1px 7px #dbe1e8ab;
+  --color-link: var(--link);
+  --color-highlight: var(--highlight);
+  --color-highlight-foreground: var(--highlight-foreground);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-danger: var(--danger);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 8px);
+}
+
+:root {
+  color-scheme: light;
+  --radius: 0.625rem;
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+  --card: #ffffff;
+  --card-foreground: #1a1a1a;
+  --popover: #ffffff;
+  --popover-foreground: #1a1a1a;
+  --primary: #0f5156;
+  --primary-foreground: #ffffff;
+  --secondary: #eefcfd;
+  --secondary-foreground: #0f5156;
+  --muted: #f4f6f8;
+  --muted-foreground: #566375;
+  --accent: #eefcfd;
+  --accent-foreground: #0f5156;
+  --destructive: #dc2626; /* a11y: #ef4444 is 3.8:1 with white */
+  --danger: #b91c1c; /* a11y: error text, 6.5:1 */
+  --border: #e2e8f0;
+  --input: #7c8798; /* a11y: field borders need 3:1, #e2e8f0 was 1.2:1 */
+  --ring: #0f5156;
+  --link: #0e7c86;
+  --highlight: #c8f1f3;
+  --highlight-foreground: #0f5156;
+}
+
+/* Same values as the website's .dark block */
+.dark {
+  color-scheme: dark;
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --card: #171717;
+  --card-foreground: #ededed;
+  --popover: #171717;
+  --popover-foreground: #ededed;
+  --primary: #2a9d8f;
+  --primary-foreground: #0a0a0a; /* a11y: white on #2a9d8f is 3.3:1 */
+  --secondary: #27272a;
+  --secondary-foreground: #ededed;
+  --muted: #27272a;
+  --muted-foreground: #a1a1aa;
+  --accent: #27272a;
+  --accent-foreground: #ededed;
+  --destructive: #7f1d1d;
+  --danger: #f87171; /* a11y: error text, 7.2:1 */
+  --border: #27272a;
+  --input: #71717a; /* a11y: field borders need 3:1 */
+  --ring: #2a9d8f;
+  --link: #2a9d8f;
+  --highlight: #12393c;
+  --highlight-foreground: #7fd6d0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    color-scheme: dark;
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --card: #171717;
+    --card-foreground: #ededed;
+    --popover: #171717;
+    --popover-foreground: #ededed;
+    --primary: #2a9d8f;
+    --primary-foreground: #0a0a0a;
+    --secondary: #27272a;
+    --secondary-foreground: #ededed;
+    --muted: #27272a;
+    --muted-foreground: #a1a1aa;
+    --accent: #27272a;
+    --accent-foreground: #ededed;
+    --destructive: #7f1d1d;
+    --danger: #f87171;
+    --border: #27272a;
+    --input: #71717a;
+    --ring: #2a9d8f;
+    --link: #2a9d8f;
+    --highlight: #12393c;
+    --highlight-foreground: #7fd6d0;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+  }
+  /* Devanagari and Arabic need taller lines than Latin */
+  :lang(hi),
+  :lang(ar) {
+    line-height: 1.7;
+  }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 20mm;
+  }
+}

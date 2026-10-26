@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "مساعد مطالبات الضمان من HoldMyBill",
+    "description": "Extension name in the browser and the stores. Keep 'HoldMyBill' untranslated. Max 75 characters."
+  },
+  "extShortName": {
+    "message": "مساعد مطالبات الضمان",
+    "description": "Short name, used where space is tight. Max 45 characters."
+  },
+  "extDescription": {
+    "message": "أنشئ مطالبات ضمان احترافية وطلبات إصلاح وطلبات استرداد المبلغ ورسائل متابعة.",
+    "description": "Store short description. Max 132 characters."
+  },
+  "actionTitle": {
+    "message": "فتح مساعد مطالبات الضمان",
+    "description": "Tooltip on the toolbar button."
+  }
+}

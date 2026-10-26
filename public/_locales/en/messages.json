@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "Warranty Claim Assistant by HoldMyBill",
+    "description": "Extension name in the browser and the stores. Keep 'HoldMyBill' untranslated. Max 75 characters."
+  },
+  "extShortName": {
+    "message": "Warranty Claim Assistant",
+    "description": "Short name, used where space is tight. Max 45 characters."
+  },
+  "extDescription": {
+    "message": "Generate professional warranty claims, repair requests, refund requests, and follow-up letters.",
+    "description": "Store short description. Max 132 characters."
+  },
+  "actionTitle": {
+    "message": "Open Warranty Claim Assistant",
+    "description": "Tooltip on the toolbar button."
+  }
+}

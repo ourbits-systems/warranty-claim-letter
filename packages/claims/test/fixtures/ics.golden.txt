@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HoldMyBill//Claim Letter//EN
+BEGIN:VEVENT
+UID:20261109-4fzzzxjylrx@holdmybill.com
+DTSTAMP:20261026T120000Z
+DTSTART;VALUE=DATE:20261109
+SUMMARY:Reply due: Acme\, phone\; claim
+DESCRIPTION:Line one\nLine two\, with \\ backslash
+URL:https://holdmybill.com/tools/warranty-claim-letter
+END:VEVENT
+END:VCALENDAR

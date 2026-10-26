@@ -1,0 +1,18 @@
+{
+  "extName": {
+    "message": "Assistant de réclamation de garantie par HoldMyBill",
+    "description": "Extension name in the browser and the stores. Keep 'HoldMyBill' untranslated. Max 75 characters."
+  },
+  "extShortName": {
+    "message": "Assistant de réclamation de garantie",
+    "description": "Short name, used where space is tight. Max 45 characters."
+  },
+  "extDescription": {
+    "message": "Rédigez des réclamations de garantie, demandes de réparation ou de remboursement et relances professionnelles.",
+    "description": "Store short description. Max 132 characters."
+  },
+  "actionTitle": {
+    "message": "Ouvrir l’Assistant de réclamation de garantie",
+    "description": "Tooltip on the toolbar button."
+  }
+}
