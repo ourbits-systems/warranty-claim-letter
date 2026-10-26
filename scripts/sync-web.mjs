@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Vendors @holdmybill/claims into the website repo, which consumes a
+// Vendors @ourbits-systems/claims into the website repo, which consumes a
 // copy instead of an npm package. Copies packages/claims/src/**/*.js to
 // <web>/lib/claims/core/ (same folder layout) with a "generated" header.
 //

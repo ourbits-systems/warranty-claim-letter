@@ -1,4 +1,4 @@
-import { todayIso } from '@holdmybill/claims'
+import { todayIso } from '@ourbits-systems/claims'
 import { t } from '@/i18n'
 
 const EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]+$/

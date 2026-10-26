@@ -1,4 +1,4 @@
-import { computeCoverage, formatDate } from '@holdmybill/claims'
+import { computeCoverage, formatDate } from '@ourbits-systems/claims'
 import { Info, TriangleAlert } from 'lucide-react'
 import { getLocale, t } from '@/i18n'
 import { cn } from '@/lib/utils'

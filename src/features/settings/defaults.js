@@ -1,4 +1,4 @@
-import { COUNTRIES, outputLanguages } from '@holdmybill/claims'
+import { COUNTRIES, outputLanguages } from '@ourbits-systems/claims'
 import { detectLocale } from '@/i18n'
 
 const EU = new Set(

@@ -7,7 +7,7 @@ A Chrome and Firefox (Manifest V3) extension that writes warranty claims, repair
 ## Layout
 
 ```text
-packages/claims/        @holdmybill/claims: framework-free claim engine
+packages/claims/        @ourbits-systems/claims: framework-free claim engine
   src/                    claim record, legal rules, letter structure
     letters/              letter wording per language (en, de, fr, es, nl)
     regions/              one versioned config per country
@@ -66,7 +66,7 @@ Set `HMB_WEB_DIR` or pass `--web <path>` to the sync scripts when the website re
 The website's `/tools/warranty-claim-letter` runs the same code, so changes to `packages/claims` reach both products.
 
 1. Change `packages/claims/src`.
-2. Run `pnpm test`. If letter wording changed **on purpose**, update the fixtures with `pnpm --filter @holdmybill/claims exec vitest run -u`. Then review the diff in `packages/claims/test/fixtures/letters.golden.txt` line by line.
+2. Run `pnpm test`. If letter wording changed **on purpose**, update the fixtures with `pnpm --filter @ourbits-systems/claims exec vitest run -u`. Then review the diff in `packages/claims/test/fixtures/letters.golden.txt` line by line.
 3. Run `pnpm sync:web`, then `npm run build` in the website repo, and commit both repos.
 
 The fixtures were captured from the website's original code. To check that another copy of the engine still matches them, point the golden test at that copy:

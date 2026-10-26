@@ -3,7 +3,7 @@ import {
   buildMailto,
   composeLetter,
   letterKind
-} from '@holdmybill/claims'
+} from '@ourbits-systems/claims'
 
 // The extension only cites legal rules that have a legal review date
 export const LETTER_OPTIONS = { verifiedOnly: true }

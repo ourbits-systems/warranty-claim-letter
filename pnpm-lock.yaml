@@ -178,7 +178,7 @@ importers:
       '@fontsource-variable/petrona':
         specifier: ^5.3.0
         version: 5.3.0
-      '@holdmybill/claims':
+      '@ourbits-systems/claims':
         specifier: workspace:*
         version: link:packages/claims
       class-variance-authority:

@@ -7,7 +7,7 @@ import {
   REMEDIES,
   SELLER_RESPONSES,
   todayIso
-} from '@holdmybill/claims'
+} from '@ourbits-systems/claims'
 import { Checkbox, Field, Segmented } from '@/components/ui/field'
 import { Input, Select, Textarea } from '@/components/ui/input'
 import { defaultLetterLanguage } from '@/features/settings/defaults'

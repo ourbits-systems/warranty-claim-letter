@@ -1,4 +1,4 @@
-import { COUNTRY_OPTIONS } from '@holdmybill/claims'
+import { COUNTRY_OPTIONS } from '@ourbits-systems/claims'
 import { useState } from 'react'
 import { extensionVersion } from '@/browser/pages'
 import { clearAllData } from '@/browser/storage'

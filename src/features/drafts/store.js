@@ -1,9 +1,9 @@
-import { createClaim, normalizeClaim } from '@holdmybill/claims'
+import { createClaim, normalizeClaim } from '@ourbits-systems/claims'
 import { draftsItem } from '@/browser/storage'
 
 // A draft is one claim in progress:
 //   { id, name, claim, step, edits, createdAt, updatedAt }
-// `claim` is a @holdmybill/claims record (normalized on every read, so old
+// `claim` is a @ourbits-systems/claims record (normalized on every read, so old
 // drafts upgrade with CLAIM_VERSION). `edits` holds the user's changes to the
 // letter: { subject, body, basedOn } where basedOn is the generated text the
 // edits started from, or null while the letter follows the form.
