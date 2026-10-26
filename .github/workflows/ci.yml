@@ -56,6 +56,8 @@ jobs:
         with:
           name: extension-zips
           path: .output/*.zip
+          # .output is a dot folder, which upload-artifact skips by default
+          include-hidden-files: true
           if-no-files-found: error
 
   release:
