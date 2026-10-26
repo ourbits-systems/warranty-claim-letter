@@ -51,10 +51,10 @@ store/                  store listings (6 languages), Chrome/AMO form answers,
 | `pnpm test` | All tests: the claims package (`claims`) and the extension (`extension`) |
 | `pnpm check` / `pnpm format` | Biome lint + format check, or apply the fixes |
 | `pnpm lint:firefox` | Mozilla `addons-linter` on the Firefox build (run `pnpm build:firefox` first) |
-| `pnpm sync:web` | Copy the claim engine into `../ourbits_hmb_web/lib/claims/core/` |
+| `pnpm sync:web` | Copy the claim engine into the website repo's `lib/claims/core/` |
 | `pnpm sync:web:check` | Fail if the website's vendored copy is out of date |
 
-Set `HMB_WEB_DIR` or pass `--web <path>` to the sync scripts when the website repo is not at `../ourbits_hmb_web`.
+Both sync scripts need the website repo's path: pass `--web <path>` (e.g. `pnpm sync:web --web <path>`) or set `HMB_WEB_DIR`.
 
 ## Loading the unpacked extension
 
@@ -68,13 +68,6 @@ The website's `/tools/warranty-claim-letter` runs the same code, so changes to `
 1. Change `packages/claims/src`.
 2. Run `pnpm test`. If letter wording changed **on purpose**, update the fixtures with `pnpm --filter @ourbits-systems/claims exec vitest run -u`. Then review the diff in `packages/claims/test/fixtures/letters.golden.txt` line by line.
 3. Run `pnpm sync:web`, then `npm run build` in the website repo, and commit both repos.
-
-The fixtures were captured from the website's original code. To check that another copy of the engine still matches them, point the golden test at that copy:
-
-```sh
-cd packages/claims
-CLAIMS_SRC=../../../ourbits_hmb_web/lib/claims pnpm exec vitest run test/golden.test.js
-```
 
 ## Adding a language
 

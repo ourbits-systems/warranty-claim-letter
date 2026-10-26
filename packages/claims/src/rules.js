@@ -47,7 +47,7 @@ export function rulesReviewedAt() {
 }
 
 // Letter languages for a region: its own language (if we have templates for
-// it) and English. Other languages need the AI path (Phase 3).
+// it) and English.
 export function outputLanguages(code) {
   const local = getCountryRule(code).local?.language
   return local ? [local, 'en'] : ['en']

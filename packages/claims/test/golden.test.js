@@ -1,7 +1,7 @@
 // Golden tests: the package must produce exactly what the website's original
 // lib/claims code produced. The fixtures were captured from that code with
 //
-//   CLAIMS_SRC=/path/to/ourbits_hmb_web/lib/claims pnpm test -u golden
+//   CLAIMS_SRC=<website repo>/lib/claims pnpm test -u golden
 //
 // and must never be regenerated from the package itself unless a letter
 // change is intended (then review the fixture diff line by line).

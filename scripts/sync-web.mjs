@@ -4,7 +4,9 @@
 // copy instead of an npm package. Copies packages/claims/src/**/*.js to
 // <web>/lib/claims/core/ (same folder layout) with a "generated" header.
 //
-//   node scripts/sync-web.mjs [--web ../ourbits_hmb_web] [--check]
+//   node scripts/sync-web.mjs --web <path to website repo> [--check]
+//
+// HMB_WEB_DIR can be set instead of --web.
 //
 // --check writes nothing and exits 1 if the vendored copy has drifted.
 
@@ -18,13 +20,15 @@ const srcDir = join(root, 'packages/claims/src')
 
 const { values } = parseArgs({
   options: {
-    web: {
-      type: 'string',
-      default: process.env.HMB_WEB_DIR || '../ourbits_hmb_web'
-    },
+    web: { type: 'string', default: process.env.HMB_WEB_DIR },
     check: { type: 'boolean', default: false }
   }
 })
+
+if (!values.web) {
+  console.error('Pass --web <path to website repo> or set HMB_WEB_DIR')
+  process.exit(2)
+}
 
 const webDir = resolve(root, values.web)
 const outDir = join(webDir, 'lib/claims/core')
@@ -40,8 +44,8 @@ const pkg = JSON.parse(
 
 function header(file) {
   return [
-    `// GENERATED from ${pkg.name}@${pkg.version} (warranty_claim_plugin/packages/claims/src/${file}).`,
-    '// Do not edit here: change the package, then run `pnpm sync:web` in warranty_claim_plugin.',
+    `// GENERATED from ${pkg.name}@${pkg.version} (packages/claims/src/${file}).`,
+    '// Do not edit here: change the package, then run `pnpm sync:web` in warranty-claim-letter.',
     ''
   ].join('\n')
 }
