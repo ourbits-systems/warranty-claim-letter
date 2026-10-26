@@ -22,10 +22,16 @@ export default defineConfig({
   zip: {
     // Sources ZIP for Mozilla's reviewers: everything needed to rebuild,
     // nothing internal
-    excludeSources: ['_coder/**', 'store/**', '.github/**', 'coverage/**'],
+    excludeSources: [
+      '_coder/**',
+      'docs/**',
+      'store/**',
+      '.github/**',
+      'coverage/**'
+    ],
     // Hidden files are skipped by default (good: no .env). Add the Node
     // version pin by name so reviewers build with the same Node.
-    includeSources: ['.nvmrc']
+    includeSources: ['**/*', '.nvmrc']
   },
   vite: () => ({
     plugins: [tailwindcss()]
