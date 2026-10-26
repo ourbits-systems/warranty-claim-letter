@@ -1,5 +1,5 @@
 # Lint, test and package both browsers on pushes and pull requests to master.
-# Tags like v0.2.0 also attach the store ZIPs to a draft GitHub release.
+# Tags like v0.2.0 also publish a GitHub release with the store ZIPs.
 # Store submission itself stays manual (see store/chrome.md, store/firefox.md).
 name: CI
 
@@ -70,7 +70,7 @@ jobs:
       - uses: actions/download-artifact@v8
         with:
           name: extension-zips
-      - name: Draft GitHub release with the store ZIPs
+      - name: GitHub release with the store ZIPs
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh release create "$GITHUB_REF_NAME" *.zip --draft --repo "$GITHUB_REPOSITORY" --title "$GITHUB_REF_NAME" --notes "Store packages for $GITHUB_REF_NAME"
+        run: gh release create "$GITHUB_REF_NAME" *.zip --repo "$GITHUB_REPOSITORY" --title "$GITHUB_REF_NAME" --notes "Store packages for $GITHUB_REF_NAME"
