@@ -1,13 +1,14 @@
-# Lint, test and package both browsers on every push and pull request.
+# Lint, test and package both browsers on pushes and pull requests to master.
 # Tags like v0.2.0 also attach the store ZIPs to a draft GitHub release.
 # Store submission itself stays manual (see store/chrome.md, store/firefox.md).
 name: CI
 
 on:
   push:
-    branches: [main, develop]
+    branches: [master]
     tags: ["v*"]
   pull_request:
+    branches: [master]
 
 permissions:
   contents: read
